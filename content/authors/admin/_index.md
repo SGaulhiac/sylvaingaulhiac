@@ -58,7 +58,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: /resume.pdf
+    link: images/Curriculum vitae, Sylvain Gaulhiac.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
