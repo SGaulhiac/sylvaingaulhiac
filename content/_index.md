@@ -57,11 +57,19 @@ sections:
     content:
       title: Teaching
       text: |-
-            Here:
+            My teaching experience:
             - 2021 **Calculus 1, Math 100**, Instructor, *University of Alberta*
             - 2019-2020 **Differential equations (level L2)**, Teaching Assistant, *Sorbonne Université*
             - 2019-2020 **Algebra (level L3)**, Teaching Assistant, *Sorbonne Université*
-            
+            - 2019-2020 **Arithmetic and algebra (level L2)**, Teaching Assistant, *Sorbonne Université*
+            - 2017-2018 **Euclidean and Hermitian vector spaces, affine isometries (level L2)**, Teaching Assistant, *Sorbonne Université*
+            - 2017-2018 **Isometry groups and symmetrical groups (level L2)**, Teaching Assistant, *Sorbonne
+Université*
+            - 2017-2018 **Arithmetic and algebra (level L2)**, Teaching Assistant, *Sorbonne Université*
+            - 2016-2017 **Linear algebra 2, Euclidean vector spaces, affine isometries (level L2)**, Teaching Assistant, *Sorbonne Université*
+            - 2016-2017 **Analysis and algebra for science (level L1)**, Teaching Assistant, *Sorbonne Université*
+            - 2018–2020 Courses given to students preparing the french Agrégation Externe de Mathématiques (highest teaching competitive exam).
+            - 2015–2016 Interrogations (khôlles) given in preparatory classes MPSI in Lycée Louis-le-Grand (Paris).        
   - block: experience
     content:
       title: Experience
