@@ -69,6 +69,11 @@ sections:
             - 2016-2017 **Analysis and algebra for science (level L1)**, Teaching Assistant, *Sorbonne Université*
             - 2018–2020 Courses given to students preparing the french Agrégation Externe de Mathématiques (highest teaching competitive exam).
             - 2015–2016 Interrogations (khôlles) given in preparatory classes MPSI in Lycée Louis-le-Grand (Paris).        
+  - block: markdown
+    id: music
+    content:
+      title: Music
+      text: Out of mathematics I am a pianist as well as a musical critic in classical music for [Bachtrack](https://bachtrack.com/fr_FR/22/270/list-published/20748), specialized in piano and chamber music, but also covering orchestra. I wrote numerous reviews of concerts, as well as some interviews of musicians or program of concerts. I was several times part of the Press Jury for the International Competition for Outstanding Piano Amateurs.
   - block: experience
     content:
       title: Experience
