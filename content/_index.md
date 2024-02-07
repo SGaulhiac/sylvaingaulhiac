@@ -73,7 +73,7 @@ sections:
     id: music
     content:
       title: Music
-      text: Out of mathematics I am a pianist as well as a musical critic in classical music for [Bachtrack](https://bachtrack.com/), specialized in piano and chamber music, but also covering orchestra. I wrote numerous reviews of concerts, as well as some interviews of musicians or program of concerts. Here is [my page](https://bachtrack.com/fr_FR/22/270/list-published/20748) on Bachtrack. I was several times part of the Press Jury for the [International Competition for Outstanding Piano Amateurs](https://www.pianoamateurs.com/).
+      text: Out of mathematics I am a pianist as well as a musical critic in classical music for [Bachtrack](https://bachtrack.com/), specialized in piano and chamber music, but also covering orchestra. I wrote numerous reviews of concerts, as well as some interviews of musicians or program of concerts. Here is [my page](https://bachtrack.com/fr_FR/22/270/list-published/20748) on Bachtrack. Several times I was part of the Press Jury for the [International Competition for Outstanding Piano Amateurs](https://www.pianoamateurs.com/).
   - block: collection
     id: posts
     content:
