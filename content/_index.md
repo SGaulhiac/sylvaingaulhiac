@@ -74,41 +74,6 @@ sections:
     content:
       title: Music
       text: Out of mathematics I am a pianist as well as a musical critic in classical music for [Bachtrack](https://bachtrack.com/fr_FR/22/270/list-published/20748), specialized in piano and chamber music, but also covering orchestra. I wrote numerous reviews of concerts, as well as some interviews of musicians or program of concerts. I was several times part of the Press Jury for the International Competition for Outstanding Piano Amateurs.
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
-      columns: '2'
   - block: collection
     id: posts
     content:
