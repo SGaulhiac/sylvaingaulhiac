@@ -56,7 +56,8 @@ sections:
     id: teaching
     content:
       title: Teaching
-      text: I am trying.
+      text: 2021 **Calculus 1, Math 100**, Instructor, *University of Alberta*
+            2019-2020 **Differential equations (level L2)**, Teaching Assistant, *Sorbonne Université* 
   - block: experience
     content:
       title: Experience
