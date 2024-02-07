@@ -41,10 +41,7 @@ sections:
       view: citation
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-    # design:
-      # columns: '2'
-      # view: citation
- - block: collection
+  - block: collection
     content:
       title: Recent Publications
       text: |-
