@@ -44,7 +44,7 @@ sections:
   - block: collection
     id: notes
     content:
-      title: Notes and Slides
+      title: Notes
       filters:
         folders:
           - post
@@ -52,6 +52,11 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      text: I am trying.
   - block: experience
     content:
       title: Experience
