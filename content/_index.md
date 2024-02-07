@@ -192,7 +192,7 @@ sections:
         {{% /callout %}}
       filters:
         folders:
-          - publication
+          - post
         exclude_featured: true
     design:
       columns: '2'
