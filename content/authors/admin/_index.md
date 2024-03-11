@@ -64,7 +64,7 @@ social:
 highlight_name: true
 ---
 
-I am a postdoctal fellow in mathematics at [IMPAN](https://www.impan.pl/), in Warsaw, in the group of [Piotr Achinger](https://achinger.impan.pl/). I am funded by the ERC KAPIBARA. Previously I was a postdoc in University of Alberta, Edmonton. Before that I did my PhD under the supervision of [Antoine Ducros](https://webusers.imj-prg.fr/~antoine.ducros/) at Sorbonne Université. 
+I am a postdoctal fellow in mathematics at [IMPAN](https://www.impan.pl/), in Warsaw, in the group of [Piotr Achinger](https://achinger.impan.pl/). I am funded by the ERC KAPIBARA. Previously I was a postdoc in University of Alberta, Edmonton. Before that I did my PhD under the supervision of [Antoine Ducros](https://webusers.imj-prg.fr/~antoine.ducros/) at Sorbonne Université. Here is my [CV] (uploads/CVSylvainEN.pdf).
 
 I am working in algebraic and arithmetic geometry. I am interested in Berkovich spaces, more generally in rigid-analytic geometry, as well as anabelian geometry in these spaces. I like fundamental groups, and I studied a lot the tempered fundamental group of a rigid analytic variety throught the prism of anabelian geometry. 
 {style="text-align: justify;"}
