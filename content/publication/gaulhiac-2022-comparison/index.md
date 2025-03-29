@@ -10,5 +10,5 @@ publication_types:
 publication: "*Manuscripta Mathematica*, 175 (2024), p.783-790"
 tags:  
 - Publications
-[
-](https://link.springer.com/article/10.1007/s00229-024-01578-8)---
+url_pdf: https://link.springer.com/article/10.1007/s00229-024-01578-8
+---
